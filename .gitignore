@@ -1,8 +1,14 @@
 # Compiled class file
 *.class
 
+
 # Log file
 *.log
+*.can
+*.xml
+*.txt
+*.json
+*.cin
 
 # BlueJ files
 *.ctxt
